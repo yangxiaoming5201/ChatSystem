@@ -1,0 +1,17 @@
+
+mpython:S117
+"QRename this parameter "U_Age" to match the regular expression ^[_a-z][a-z0-9_]*$.(“ŸêØûÿÿÿÿ
+qpython:S117
+"URename this parameter "U_LoginID" to match the regular expression ^[_a-z][a-z0-9_]*$.(“ŸêØûÿÿÿÿ
+npython:S117
+"RRename this parameter "U_Name" to match the regular expression ^[_a-z][a-z0-9_]*$.(“ŸêØûÿÿÿÿ
+rpython:S117
+"VRename this parameter "U_NickName" to match the regular expression ^[_a-z][a-z0-9_]*$.(“ŸêØûÿÿÿÿ
+rpython:S117
+"VRename this parameter "U_PassWord" to match the regular expression ^[_a-z][a-z0-9_]*$.(“ŸêØûÿÿÿÿ
+mpython:S117
+"QRename this parameter "U_Sex" to match the regular expression ^[_a-z][a-z0-9_]*$.(“ŸêØûÿÿÿÿ
+lpython:S117B"URename this parameter "U_LoginID" to match the regular expression ^[_a-z][a-z0-9_]*$.(Üœ
+lpython:S117Q"PRename this parameter "U_ID" to match the regular expression ^[_a-z][a-z0-9_]*$.(ı½âÌûÿÿÿÿ
+4python:S2772l"Remove this unneeded "pass".(ã‘Û¾
+;python:S125c"Remove this commented out code.(ŠÀàÇúÿÿÿÿ

@@ -1,0 +1,8 @@
+
+opython:S116"XRename this field "horizontalLayout" to match the regular expression ^[_a-z][_a-z0-9]*$.(±·ÊÀ
+zpython:S116"^Rename this field "horizontalLayoutWidget" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÙóÜÒûÿÿÿÿ
+ƒpython:S101"gRename class "Ui_MainWindow" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.( Ìñıùÿÿÿÿ
+rpython:S117"VRename this parameter "MainWindow" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÂéÇ´ÿÿÿÿÿ
+gpython:S100"KRename method "setupUi" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÂéÇ´ÿÿÿÿÿ
+rpython:S117,"VRename this parameter "MainWindow" to match the regular expression ^[_a-z][a-z0-9_]*$.(”«Àşÿÿÿÿ
+mpython:S100,"QRename method "retranslateUi" to match the regular expression ^[a-z_][a-z0-9_]*$.(”«Àşÿÿÿÿ

@@ -1,0 +1,8 @@
+
+;python:S125S"Remove this commented out code.(Ÿ¯‹ïþÿÿÿÿ
+spython:S117Î"VRename this local variable "U_Age" to match the regular expression ^[_a-z][a-z0-9_]*$.(õèÀÄûÿÿÿÿ
+wpython:S117É"ZRename this local variable "U_LoginID" to match the regular expression ^[_a-z][a-z0-9_]*$.(êêšªýÿÿÿÿ
+opython:S117Ì"WRename this local variable "U_Name" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸å¿Ÿ
+xpython:S117Ë"[Rename this local variable "U_NickName" to match the regular expression ^[_a-z][a-z0-9_]*$.(öóàÉýÿÿÿÿ
+xpython:S117Ê"[Rename this local variable "U_PassWord" to match the regular expression ^[_a-z][a-z0-9_]*$.(×¿šÞúÿÿÿÿ
+spython:S117Í"VRename this local variable "U_Sex" to match the regular expression ^[_a-z][a-z0-9_]*$.(®‘ùüúÿÿÿÿ

@@ -1,0 +1,7 @@
+
+Špython:S101"gRename class "Ui_MainWindow" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.( Ìñıùÿÿÿÿ8€ÛĞ™—/
+ypython:S117"VRename this parameter "MainWindow" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÂéÇ´ÿÿÿÿÿ8€ÛĞ™—/
+npython:S100"KRename method "setupUi" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÂéÇ´ÿÿÿÿÿ8€ÛĞ™—/
+ypython:S117]"VRename this parameter "MainWindow" to match the regular expression ^[_a-z][a-z0-9_]*$.(”«Àşÿÿÿÿ8Ì©šÀ—/
+„python:S117`"aRename this local variable "__sortingEnabled" to match the regular expression ^[_a-z][a-z0-9_]*$.(¾Á²†úÿÿÿÿ8Ì©šÀ—/
+tpython:S100]"QRename method "retranslateUi" to match the regular expression ^[a-z_][a-z0-9_]*$.(”«Àşÿÿÿÿ8Ì©šÀ—/
