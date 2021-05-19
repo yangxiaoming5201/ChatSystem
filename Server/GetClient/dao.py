@@ -5,8 +5,8 @@ import pymysql
 
 class Dao:
     def __init__(self):
-        self.conn = pymysql.connect(host="rm-bp1a6km6sgh52any7jo.mysql.rds.aliyuncs.com", user="root",
-                                    password="oqJ1QzlICv55", database="chatsystem")
+        self.conn = pymysql.connect(host="localhost", user="root",
+                                    password="root", database="chatsystem")
         self.cursor = self.conn.cursor()
 
     def close(self):
